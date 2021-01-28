@@ -1,4 +1,4 @@
-/* eslint-disable react/react-in-jsx-scope */
+/* eslint-disable linebreak-style */
 /* eslint-disable linebreak-style */
 /* eslint-disable react/jsx-no-bind */
 import Head from 'next/head';
