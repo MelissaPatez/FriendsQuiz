@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+// eslint-disable-next-line import/no-extraneous-dependencies
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
