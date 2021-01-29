@@ -65,7 +65,9 @@
     }
   ],
   "external": [
-    ""
+    "https://pato-quiz-nextjs.theedouglasam.vercel.app/",
+    "flash-quiz-next.davidlpc1.vercel.app/",
+    "quiz-star-wars.mattheussal.vercel.app"
   ],
   "theme": {
     "colors": {
