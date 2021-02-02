@@ -18,8 +18,18 @@ function ResultWidget({ results }) {
   return (
     <Widget>
       <Widget.Header>
+        <BackLinkArrow href="/" />
         Tela de Resultado:
       </Widget.Header>
+      <img
+        alt="GameOver"
+        style={{
+          width: '100%',
+          height: '200px',
+          objectFit: 'cover',
+        }}
+        src={db.resultImage}
+      />
 
       <Widget.Content>
         <p>
