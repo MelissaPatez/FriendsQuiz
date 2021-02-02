@@ -18,11 +18,11 @@ const Button = styled.button`
   transition: .3s;
   cursor: pointer;
   &:hover,
-  &:focus {
+  &:focus { 
     opacity: .5;
   }
   &:disabled {
-    background-color: #979797;
+    background-color:#b163ff;
     cursor: not-allowed;
   }
 `;

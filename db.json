@@ -1,6 +1,6 @@
 {
   "bg": "https://img.elo7.com.br/product/original/1BB17FF/papel-de-parede-adesivo-friends-roxo-d.jpg",
-  "title": "Quiz sobre a série Friends",
+  "title": "HOW YOU DOING??",
   "description": "Você realmente conhece a série F.R.I.E.N.D.S??",
   "questions": [
     {
@@ -30,12 +30,12 @@
       "image": "https://media3.giphy.com/media/W3a0zO282fuBpsqqyD/giphy.gif",
       "title": "Quantas irmãs o Joey tem?",
       "description": "nem eu sabia essa. . .",
-      "answer": 3,
+      "answer": 1,
       "alternatives": [
-        "5",
         "6",
-        "8",
-        "7"
+        "7",
+        "5",
+        "8"
       ]
     },
     {
@@ -51,9 +51,9 @@
       ]
     },
     {
-      "image": "https://1.bp.blogspot.com/-uKGaRSzET18/U_U6ZSTqmYI/AAAAAAAAK7Y/AJVgbj_r_Y8/s1600/friends%2B2.gif",
+      "image": "http://31.media.tumblr.com/4d86bdfbf53851c82f7ec211c104a263/tumblr_myosd8yz3S1qm9fxho1_500.gif",
       "title": "Durante uma performance de Phoebe no central perk, cada amigo canta uma frase de Smelly Cat, exceto:",
-      "description": "Essa é fácil!",
+      "description": "",
       "answer": 0,
       "alternatives": [
         "Ross",
@@ -62,17 +62,75 @@
         "Joey",
         "Rachel"
       ]
-    }
+    },
+    {
+      "image": "https://i.pinimg.com/originals/1d/3b/c2/1d3bc2ea3e9acfa6aa67ed83c8c65d05.gif",
+      "title": "Quem nunca morou no apartamento da Monica??",
+      "description": "?????",
+      "answer": 3,
+      "alternatives": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Todos já moraram!"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/81/f3/be/81f3be5a6035a9c34415966b702e6ab3.gif",
+      "title": "Quem é o primeiro a descobrir sobre o relacionamento de Monica e Chandler?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ]
+    },
+    {
+      "image": "http://images.virgula.com.br/2016/09/rachel.gif",
+      "title": "Qual foi o desenho da tatuagem que Rachel fez no quadril?",
+      "description": "NOOOOOOO",
+      "answer": 1,
+      "alternatives": [
+        "Um gato",
+        "Um coração",
+        "um lírio",
+        "uma borboleta"
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/1e3ca0792ef1a1f28c26660e2d61f79f/tumblr_pgzap0WGD01r5oygi_400.gifv",
+      "title": "Quantos passos de distância fica o apartamento de Monica / Joey do 'Central Perk'?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "96",
+        "113",
+        "97",
+        "108"
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/1e3ca0792ef1a1f28c26660e2d61f79f/tumblr_pgzap0WGD01r5oygi_400.gifv",
+      "title": "No episódio 'aquele com o videotape', que é o episódio que mostra quando a Rachel engravidou, quem que teve a iniciativa??",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Ross",
+        "Rachel"
+      ]
+    } 
   ],
   "external": [
-    "https://pato-quiz-nextjs.theedouglasam.vercel.app/",
-    "flash-quiz-next.davidlpc1.vercel.app/",
-    "quiz-star-wars.mattheussal.vercel.app"
+    "https://aluraquiz-coffee.leonardot07.vercel.app/",
+    "https://1sec-quiz.victoroda.vercel.app/",
+    "https://imersao-react-next-js.nathanaquino.vercel.app/"
   ],
   "theme": {
     "colors": {
       "primary": "#a828ed",
-      "secondary": "#ecf011",
+      "secondary": "#f5e82f",
       "mainBg": "#171B35",
       "contrastText": "#FFFFFF",
       "wrong": "#ff0000",
